@@ -79,5 +79,4 @@ This project explores a comprehensive dataset of used car listings to uncover pr
 
 ---
 
-## 📁 Project Structure
 
